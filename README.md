@@ -1,7 +1,6 @@
 # Tarea: Robot
 ## Profesor: José Ramón Jiménez Reyes
-## Alumno:
-
+## Alumno:Zakaria Qirris Bendama
 La tarea va a consistir en modelar el movimiento de un robot por una zona de nuestra habitación.
 
 La zona será rectangular y debe estar dentro de los límites de la habitación (100 de ancho y 100 de alto). La zona debe tener al menos 10 de anchura y 10 de altura para que así nuestro robot pueda moverse. La zona se divide en baldosas para facilitar el movimiento.
